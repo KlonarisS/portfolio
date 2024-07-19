@@ -3,7 +3,7 @@
 #### Skills: SQL, Microsoft Power BI, Excel
 
 ## Education
-B.Sc. in Informatics and Telecommunication | University of Peloponnese (_in progress_)
+B.S. Informatics and Telecommunication | University of Peloponnese (_in progress_)
 
 ## Projects
 **London Bike Sharing Dataset**

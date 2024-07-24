@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Skills: SQL, Power BI, Excel
+#### Skills: SQL · Power BI · Excel
 
 ## Projects
 

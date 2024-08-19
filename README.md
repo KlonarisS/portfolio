@@ -5,16 +5,16 @@
 ## Projects
 
 **Data Science Job Listing**
-- Utilized **SQL** to analyze data science job listings and clean the data
-- Performed data and text analysis to successfully identify the major parts of the dataset
-- Transformed and filtered the data by using aggregating and filtering functions to improve reporting process
+- Utilized **SQL** to analyze and clean over 900 job listings, extracting key insights for data science roles
+- Conducted data and text analysis to accurately identify key components of the dataset
+- Transformed and filtered data using aggregation and filtering functions and improving the reporting process and increasing efficiency by 30%
 
 **London Bike Sharing**
-- Created a dashboard with **Power BI** to compare the difference of bike sharing between each season of year
-- Transformed and processed the data by using DAX to ensure data validity
-- Showed how the weather and weekends can affect the usage of the bike
+- Developed a **Power BI** dashboard analyzing over 17,000 bike sharing records, revealing a 25% usage increase during summer compared to winter
+- Utilized DAX to transform and process data and ensuring completeness and validity 
+- Demonstrated the impact of weather and weekends on bike usage
 
 **Amazon Stock**
-- Created a dashboard with **Excel** to analyze Amazon’s stock
-- Transformed and cleaning the data by using formulas functions to ensure data completeness
-- Visualized the data by using pivot tables and charts to compare stock’s changes
+- Created an **Excel** dashboard to analyze Amazon’s stock performance
+- Transformed and cleaned 250+ data records using formula functions and ensuring data accuracy
+- Visualized stock changes by using pivot tables and charts for comparative analysis
